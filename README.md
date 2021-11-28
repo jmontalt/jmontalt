@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a researcher at UCL, interested in MR image processing and biomedical ML/AI applications.
+I'm a researcher at UCL, interested in MR image acquisition and processing and biomedical ML/AI applications.
 
 Most of my activity can be found in my research group's [organization](https://github.com/mrphys).
 

@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-I'm a researcher at UCL, interested in MR image acquisition and processing and biomedical ML/AI applications.
-
-Most of my activity can be found in my research group's [organization](https://github.com/mrphys).
-
-I maintain [TensorFlow MRI](https://github.com/mrphys/tensorflow-mri) and [TensorFlow NUFFT](https://github.com/mrphys/tensorflow-nufft).
-
 <!--
 **jmontalt/jmontalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
